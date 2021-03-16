@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <title>ТРРП3: Котики</title>
+  <script type="method" src="server.js"></script>
+</head>
+<body>
+    <form method="POST" action="/index">
+        <div>
+            <label for="fio">Имя/Кличка:</label>
+            <input required name="cat_name" type="text" value=""></input>
+        </div>
+        <div>
+            <label>Возраст:</label>
+            <input required name="cat_age" type="number" value=""></input>
+        </div>
+        <div>
+            <label>Порода:</label>
+            <input required name="cat_kind" type="text"value=""></input>
+        </div>
+        <div>
+            <label>Пол:</label>
+            <select required name="cat_sex">
+                <option>Кошечка</option>
+                <option>Котик</option>
+            </select>
+        </div>
+        <button type="submit">Послать данные серверу</button>
+    </form>
+</body>
+</html>

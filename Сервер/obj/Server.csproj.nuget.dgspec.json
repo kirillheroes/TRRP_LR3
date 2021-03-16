@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\С телефона (новое, старое на старом ноуте)\\По учебе\\триместр 10\\ТРРП (Распределённые приложения)\\лаб 3\\Сервер\\Server.csproj": {}
+  },
+  "projects": {
+    "D:\\С телефона (новое, старое на старом ноуте)\\По учебе\\триместр 10\\ТРРП (Распределённые приложения)\\лаб 3\\Сервер\\Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\С телефона (новое, старое на старом ноуте)\\По учебе\\триместр 10\\ТРРП (Распределённые приложения)\\лаб 3\\Сервер\\Server.csproj",
+        "projectName": "Server",
+        "projectPath": "D:\\С телефона (новое, старое на старом ноуте)\\По учебе\\триместр 10\\ТРРП (Распределённые приложения)\\лаб 3\\Сервер\\Server.csproj",
+        "packagesPath": "C:\\Users\\KirillHeroes\\.nuget\\packages\\",
+        "outputPath": "D:\\С телефона (новое, старое на старом ноуте)\\По учебе\\триместр 10\\ТРРП (Распределённые приложения)\\лаб 3\\Сервер\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KirillHeroes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "Grpc.Core": {
+              "target": "Package",
+              "version": "[2.34.0, )"
+            },
+            "Grpc.Reflection": {
+              "target": "Package",
+              "version": "[2.34.0, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.34.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+﻿syntax = "proto3";
+
+service CatInfoService {
+  rpc getCatInfo(Cat) returns (CatInfoString) {}
+}
+
+message Cat {
+  string name = 1;
+  int32 age = 2;
+  string kind = 3;
+  string sex = 4;
+}
+
+message CatInfoString {
+  string output_text = 1;
+}

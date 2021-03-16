@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "mBoVhEzBP4ChG4yHndwYdWS8hE947Kqz5ensHKsBn5Cxxqy58MMGbUbsQtmyfO+DWLN8F+d4qCmtyIiuJCFwoQ==",
+  "success": true,
+  "projectFilePath": "D:\\С телефона (новое, старое на старом ноуте)\\По учебе\\триместр 10\\ТРРП (Распределённые приложения)\\лаб 3\\Сервер\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KirillHeroes\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
+    "C:\\Users\\KirillHeroes\\.nuget\\packages\\grpc.core\\2.34.0\\grpc.core.2.34.0.nupkg.sha512",
+    "C:\\Users\\KirillHeroes\\.nuget\\packages\\grpc.core.api\\2.34.0\\grpc.core.api.2.34.0.nupkg.sha512",
+    "C:\\Users\\KirillHeroes\\.nuget\\packages\\grpc.reflection\\2.34.0\\grpc.reflection.2.34.0.nupkg.sha512",
+    "C:\\Users\\KirillHeroes\\.nuget\\packages\\grpc.tools\\2.34.0\\grpc.tools.2.34.0.nupkg.sha512",
+    "C:\\Users\\KirillHeroes\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\KirillHeroes\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\KirillHeroes\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
+    "C:\\Users\\KirillHeroes\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\KirillHeroes\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\KirillHeroes\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\KirillHeroes\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\KirillHeroes\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0\\system.security.cryptography.protecteddata.5.0.0.nupkg.sha512",
+    "C:\\Users\\KirillHeroes\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
+    "C:\\Users\\KirillHeroes\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\KirillHeroes\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
